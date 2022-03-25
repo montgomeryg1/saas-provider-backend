@@ -1,0 +1,10 @@
+venv/
+.idea
+.DS_Store
+.vscode
+settings.json
+tenant-db.json
+app/tenant-db.json
+app/__pycache__/
+.github
+
