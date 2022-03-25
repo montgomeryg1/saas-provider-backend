@@ -8,7 +8,7 @@ spec:
     namespace: saas-provider-backend
     server: 'https://kubernetes.default.svc'
   source:
-    path: kubernetes/overlays/aws
+    path: kubernetes/overlays/gcp
     repoURL: 'https://github.com/montgomeryg1/saas-provider-backend'
     targetRevision: HEAD
     directory:
