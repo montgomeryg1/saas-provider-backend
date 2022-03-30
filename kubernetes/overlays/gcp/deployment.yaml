@@ -7,5 +7,5 @@ spec:
   template:
     spec:
       containers:
-      - image: gcr.io/sam-playground-290106/saas-provider-backend:latest
-        name: saas-provider-backend
+        - image: hello-world:latest
+          name: saas-provider-backend
