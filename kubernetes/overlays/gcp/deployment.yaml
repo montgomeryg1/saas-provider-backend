@@ -7,5 +7,5 @@ spec:
   template:
     spec:
       containers:
-        - image: hello-world:latest
+        - image: kiamol/ch02-hello-kiamol
           name: saas-provider-backend
